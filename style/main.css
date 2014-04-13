@@ -315,44 +315,66 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background-image: url('../images/2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   .tile.tile-4 .tile-inner {
     background-image: url('../images/4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   .tile.tile-8 .tile-inner {
     background-image: url('../images/8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   .tile.tile-16 .tile-inner {
     background-image: url('../images/16.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   .tile.tile-32 .tile-inner {
     background-image: url('../images/32.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   .tile.tile-64 .tile-inner {
     background-image: url('../images/64.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   .tile.tile-128 .tile-inner {
-    background-image: url('../images/128.jpg'); }
+    background-image: url('../images/128.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background-image: url('../images/256.jpg'); }
+    background-image: url('../images/256.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background-image: url('../images/512.jpg'); }
+    background-image: url('../images/512.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background-image: url('../images/1024.jpg'); }
+    background-image: url('../images/1024.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background-image: url('../images/2048.jpg'); }
+    background-image: url('../images/2048.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
