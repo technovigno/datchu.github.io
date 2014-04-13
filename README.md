@@ -1,4 +1,4 @@
-# This is Datchu-Smile an adapter version of the game 2048.
+# This is Datchu-Smile an adapted version of the game 2048.
 
 Just built for my love :)
 
